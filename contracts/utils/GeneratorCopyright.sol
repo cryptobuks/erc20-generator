@@ -3,7 +3,7 @@
 pragma solidity ^0.7.0;
 
 /**
- * @author ERC20 (https://vittominacori.github.io/erc20-generator)
+ * @author ERC20 (https://uniingo.xyz)
  */
 contract GeneratorCopyright {
 
